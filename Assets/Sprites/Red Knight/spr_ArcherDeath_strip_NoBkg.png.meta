@@ -1,0 +1,684 @@
+fileFormatVersion: 2
+guid: f0efc3f13e7b84d4bb864a8a3c5f1788
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_ArcherDeath_strip_NoBkg_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 50
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e0183a2248ab9478452c18cc682758
+      internalID: 1690474394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherDeath_strip_NoBkg_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 50
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d291b6d986e837445829183b77857c53
+      internalID: -2084329089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherDeath_strip_NoBkg_2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 50
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233877b8b85f09642b9b82bc6e4f5857
+      internalID: 814209109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherDeath_strip_NoBkg_3
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 50
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dfa71fb62d5d34587bbc0f07b4fade
+      internalID: -1296590283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherDeath_strip_NoBkg_4
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 50
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c83bf3176b9b5c40897c6ec62e53db0
+      internalID: -2062529289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherDeath_strip_NoBkg_5
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 50
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c9366a38355cf4dac91e0a6ca2a82d
+      internalID: 334235426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherDeath_strip_NoBkg_6
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 50
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35eb7d651963c16488f202bd7e1d6072
+      internalID: 1784295113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherDeath_strip_NoBkg_7
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 50
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0f308897fbc9e409a3d8e058649e4d
+      internalID: -299300019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherDeath_strip_NoBkg_8
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 50
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a09cf39a952fa46b79fc8f6fbebdbd
+      internalID: 527967471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherDeath_strip_NoBkg_9
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 50
+        width: 52
+        height: 43
+      alignment: 9
+      pivot: {x: 0.2771419, y: 0.5122503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c910c73a4249aa4428b4611ef878163e
+      internalID: 855521581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherDeath_strip_NoBkg_10
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 50
+        width: 54
+        height: 43
+      alignment: 9
+      pivot: {x: 0.2771419, y: 0.5367506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712f05e9e52a8214e80684e378853d14
+      internalID: 1919619700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherDeath_strip_NoBkg_11
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 50
+        width: 57
+        height: 43
+      alignment: 9
+      pivot: {x: 0.2771419, y: 0.4877498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d664296af2b9a4eb38765603ddd728
+      internalID: -1313245135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherDeath_strip_NoBkg_13
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 50
+        width: 59
+        height: 43
+      alignment: 9
+      pivot: {x: 0.2771419, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe29bf08cb10d3429cb0aaa574c8c60
+      internalID: -1089558146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherDeath_strip_NoBkg_15
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 50
+        width: 48
+        height: 43
+      alignment: 9
+      pivot: {x: 0.2771419, y: 0.5122503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999bcba0a829c1e418ad596bca458504
+      internalID: 178764854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherDeath_strip_NoBkg_16
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 50
+        width: 48
+        height: 43
+      alignment: 9
+      pivot: {x: 0.2771419, y: 0.5000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32d641b8e4118a4a809847d9c440886
+      internalID: -1347611899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherDeath_strip_NoBkg_17
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 50
+        width: 49
+        height: 43
+      alignment: 9
+      pivot: {x: 0.2771419, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f54ab904ad5544faedaba430eeb5a8
+      internalID: 1355347484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherDeath_strip_NoBkg_18
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 50
+        width: 48
+        height: 43
+      alignment: 9
+      pivot: {x: 0.2771419, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a49447444d0e640805d036f21ae9a4
+      internalID: -654225101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherDeath_strip_NoBkg_19
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 50
+        width: 52
+        height: 43
+      alignment: 9
+      pivot: {x: 0.2771419, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9a8d3e2410b58439e23007398adb7e
+      internalID: -804827988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherDeath_strip_NoBkg_20
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 50
+        width: 54
+        height: 43
+      alignment: 9
+      pivot: {x: 0.2771419, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5141aff16f8c6c43b6215b68a36793f
+      internalID: 1414944205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherDeath_strip_NoBkg_21
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 50
+        width: 57
+        height: 43
+      alignment: 9
+      pivot: {x: 0.2771419, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34a3950b65205b418639c797df02f8d
+      internalID: 147339555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherDeath_strip_NoBkg_23
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 50
+        width: 59
+        height: 43
+      alignment: 9
+      pivot: {x: 0.2771419, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b985db34575bd0468ec3d2cc57c7562
+      internalID: -545772830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherDeath_strip_NoBkg_24
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 50
+        width: 52
+        height: 43
+      alignment: 9
+      pivot: {x: 0.2771419, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c410d25e7ee3b594b9f39eedb3c5a75d
+      internalID: 8881583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherDeath_strip_NoBkg_25
+      rect:
+        serializedVersion: 2
+        x: 2869
+        y: 50
+        width: 51
+        height: 43
+      alignment: 9
+      pivot: {x: 0.2771419, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2884932234b8645489ab258460680a69
+      internalID: -1764556033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherDeath_strip_NoBkg_26
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 50
+        width: 51
+        height: 43
+      alignment: 9
+      pivot: {x: 0.2771419, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31299b5387f37764b82ecf126861c785
+      internalID: -1947940434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spr_ArcherDeath_strip_NoBkg_0: 1690474394
+      spr_ArcherDeath_strip_NoBkg_1: -2084329089
+      spr_ArcherDeath_strip_NoBkg_10: 1919619700
+      spr_ArcherDeath_strip_NoBkg_11: -1313245135
+      spr_ArcherDeath_strip_NoBkg_12: -339126277
+      spr_ArcherDeath_strip_NoBkg_13: -1089558146
+      spr_ArcherDeath_strip_NoBkg_14: 865485159
+      spr_ArcherDeath_strip_NoBkg_15: 178764854
+      spr_ArcherDeath_strip_NoBkg_16: -1347611899
+      spr_ArcherDeath_strip_NoBkg_17: 1355347484
+      spr_ArcherDeath_strip_NoBkg_18: -654225101
+      spr_ArcherDeath_strip_NoBkg_19: -804827988
+      spr_ArcherDeath_strip_NoBkg_2: 814209109
+      spr_ArcherDeath_strip_NoBkg_20: 1414944205
+      spr_ArcherDeath_strip_NoBkg_21: 147339555
+      spr_ArcherDeath_strip_NoBkg_22: -1475535709
+      spr_ArcherDeath_strip_NoBkg_23: -545772830
+      spr_ArcherDeath_strip_NoBkg_24: 8881583
+      spr_ArcherDeath_strip_NoBkg_25: -1764556033
+      spr_ArcherDeath_strip_NoBkg_26: -1947940434
+      spr_ArcherDeath_strip_NoBkg_3: -1296590283
+      spr_ArcherDeath_strip_NoBkg_4: -2062529289
+      spr_ArcherDeath_strip_NoBkg_5: 334235426
+      spr_ArcherDeath_strip_NoBkg_6: 1784295113
+      spr_ArcherDeath_strip_NoBkg_7: -299300019
+      spr_ArcherDeath_strip_NoBkg_8: 527967471
+      spr_ArcherDeath_strip_NoBkg_9: 855521581
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
